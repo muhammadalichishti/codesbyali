@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mu-ali/mu-ali/blob/main/Name%20Transparent.gif.gif" />
+  <img src="https://github.com/mu-ali/mu-ali/blob/main/name.gif" />
 
 ---
 <img align="right" alt="GIF" height="185px" src="https://github.com/mu-ali/mu-ali/blob/main/Computer%20Guy.gif" />
