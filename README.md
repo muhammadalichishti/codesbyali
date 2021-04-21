@@ -1,4 +1,4 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/mu-ali/mu-ali/raw/master/name.gif)
+![Hey there, I'm Ali. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/mu-ali/mu-ali/blob/main/name.gif)
 
 
 ---
