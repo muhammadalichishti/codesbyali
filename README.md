@@ -32,11 +32,15 @@
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
 ---
-<img align="left" alt="GIF" height="170px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
-##LANGUAGES AND TOOLS:
-
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/github.gif"></a>
 <br/>
+
+**LANGUAGES AND TOOLS:**  
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
@@ -58,6 +62,8 @@
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <br/>
+
+---
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true" alt="mu-ali" /> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mu-ali" alt="mu-ali" /> </p>
