@@ -31,6 +31,28 @@
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 - ⚡ <b>Fun fact</b>: I am the fan of Marvel as well as DC
 
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mu-ali&repo=mu-ali&countColorcountColor&countColor=%237B1E7B"/>
+
+### Contact with me 📝
+
+[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+
+<br />
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true" alt="mu-ali" /> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mu-ali" alt="mu-ali" /> </p>
 <!--
