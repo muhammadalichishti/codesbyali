@@ -32,12 +32,12 @@
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
 ---
-<a target="_blank"><img align="left" height="200" width="500" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif"></a>
+<a target="_blank"><img align="left" height="280" width="500" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif"></a>
 <br/>
 
 
 ##LANGUAGES AND TOOLS:
-**
+
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
