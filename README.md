@@ -45,10 +45,9 @@
 
 <p align="center">
 	 <a href="https://alichishti.me"><img alt="Website" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
-        <a href="https://github.com/imakash3011"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+        <a href="https://github.com/mu-ali"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="mailto:meghajais.mj@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-	<a href="https://medium.com/@muhammadalichishti"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/autodesk-maya.png"/></a>
+	<a href="https://www.facebook.com/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>	<a href="https://medium.com/@muhammadalichishti"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/autodesk-maya.png"/></a>
 </p>
 
 [<img align="left" alt="alichishti.me" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
