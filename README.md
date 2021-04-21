@@ -50,8 +50,6 @@
 	<a href="https://www.facebook.com/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>	<a href="https://medium.com/@muhammadalichishti"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/autodesk-maya.png"/></a>
 </p>
 
-<br />
-
 <hr/>
 
 <p align="center">
