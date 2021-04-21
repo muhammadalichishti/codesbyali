@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="60">
-   Me as a code
+    Me as a code
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
 </p>
 
@@ -70,7 +70,7 @@ Ali.skills.push(...languages, ...frameworks, ...databases);
 
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Muhammad Ali's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=79ff97e" alt="Muhammad Ali's Github Stats">
 </p>
 
 <!--
