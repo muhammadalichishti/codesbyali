@@ -48,8 +48,6 @@
 
 <br />
 
----
-
 <hr/>
 
 <p align="center">
@@ -70,7 +68,6 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
----
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Muhammad Ali's Github Stats">
