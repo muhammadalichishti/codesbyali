@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mu-ali/mu-ali/blob/main/name2.gif" />
+  <img src="https://github.com/mu-ali/mu-ali/blob/main/name.gif" />
 
 ---
 <img align="right" alt="GIF" height="185px" src="https://github.com/mu-ali/mu-ali/blob/main/Computer%20Guy.gif" />
@@ -13,7 +13,7 @@
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
 ---
-<a target="_blank"><img align="left" height="280" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/Another%20Computer%20Guy.gif"></a>
+<a target="_blank"><img align="left" height="280" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/image.gif"></a>
 <br/>
 
 
