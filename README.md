@@ -32,7 +32,7 @@
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
 ---
-<a target="_blank"><img align="left" height="500" width="800" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif"></a>
+<a target="_blank"><img align="left" height="333" width="600" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif"></a>
 <br/>
 
 
