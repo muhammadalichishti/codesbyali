@@ -13,7 +13,7 @@
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
 ---
-<a target="_blank"><img align="left" height="250" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/Another%20Computer%20Guy.gif"></a>
+<a target="_blank"><img align="left" height="280" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/Another%20Computer%20Guy.gif"></a>
 <br/>
 
 
