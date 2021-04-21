@@ -50,6 +50,28 @@
 
 ---
 
+<hr/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/astro_cat.webp" width="50">
+  Me as a code... 
+  <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+</p>
+
+```javascript
+import { Akshat } from "Awesome";
+
+const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
+const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
+const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
+
+Akshat.skills.push(...languages, ...frameworks, ...databases);
+```
+
+<hr/>
+
+---
+
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Muhammad Ali's Github Stats">
 </p>
