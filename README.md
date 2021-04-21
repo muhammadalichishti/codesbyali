@@ -57,13 +57,13 @@
 </p>
 
 ```javascript
-import { Akshat } from "Awesome";
+import { Ali } from "Awesome";
 
 const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
 const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
 const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
 
-Akshat.skills.push(...languages, ...frameworks, ...databases);
+Ali.skills.push(...languages, ...frameworks, ...databases);
 ```
 
 <hr/>
