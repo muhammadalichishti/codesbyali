@@ -37,11 +37,12 @@
 
 ---
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mu-ali&repo=mu-ali&countColorcountColor&countColor=%237B1E7B"/>
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="alichishti.me" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
+[<img align="left" alt="muhammad-ali-chishti | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt=" | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
@@ -63,7 +64,7 @@ Here are some ideas to get you started:
 
 
 
-[website]: http://bilgehangecici.site/
+[website]: https://alichishti.me/
 [instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[linkedin]: https://www.linkedin.com/in/muhammad-ali-chishti
 [Spotify]: https://open.spotify.com/user/11153360645
