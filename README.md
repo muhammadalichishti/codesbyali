@@ -6,7 +6,7 @@
 
 ## I'm a Computer Science and Engineering Student  
 
--👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
@@ -51,7 +51,7 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="60">
   Me as a code... 
   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
 </p>
