@@ -13,7 +13,7 @@
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
 ---
-<a target="_blank"><img align="left" height="250" width="450" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a>
+<a target="_blank"><img align="left" height="300" width="450" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a>
 <br/>
 
 
