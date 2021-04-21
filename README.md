@@ -21,9 +21,11 @@
 </code>
 
 ---
-- 🔭 <b>Working with</b>: Java, Python, Bash
-- 🌱 <b>Learning more about</b>: Automation, Bug Hunting, Linux
-- ⚡ <b>Fun fact</b>: Marvel Fan
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ <b>Fun fact</b>: I am the fan of Marvel as well as DC
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true" alt="mu-ali" /> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mu-ali" alt="mu-ali" /> </p>
