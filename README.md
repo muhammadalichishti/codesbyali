@@ -2,7 +2,7 @@
   <img src="https://github.com/mu-ali/mu-ali/blob/main/name.gif">
 
 ---
-<img align="right" alt="GIF" height="170px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+<img align="right" alt="GIF" height="185px" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 ## I'm a Computer Science and Engineering Student  
 
@@ -37,6 +37,18 @@
 
 ---
 
+### Contact with me 📝
+
+[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+
+<br />
+
+---
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true" alt="mu-ali" /> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mu-ali" alt="mu-ali" /> </p>
 <!--
@@ -47,3 +59,11 @@
 - 💬 Ask me about ...
 Here are some ideas to get you started:
 -->
+
+
+
+
+[website]: http://bilgehangecici.site/
+[instagram]: https://www.instagram.com/bilgehangecici
+[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[Spotify]: https://open.spotify.com/user/11153360645
