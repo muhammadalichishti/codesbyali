@@ -45,10 +45,10 @@
 
 <p align="center">
 	<a href="https://alichishti.me"><img alt="Website" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
-	        <a href="https://github.com/mu-ali"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
         <a href="https://github.com/mu-ali"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="mailto:alichishti1225@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-	<a href="https://www.facebook.com/#"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>	<a href="https://medium.com/@muhammadalichishti"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/autodesk-maya.png"/></a>
+	<a href="https://www.facebook.com/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>	
+	<a href="https://medium.com/@muhammadalichishti"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/autodesk-maya.png"/></a>
 </p>
 
 <hr/>
@@ -71,10 +71,6 @@ Ali.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Muhammad Ali's Github Stats">
-</p>
 
 <!--
 **mu-ali/mu-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
