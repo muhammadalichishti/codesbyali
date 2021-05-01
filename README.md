@@ -71,6 +71,9 @@ Ali.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Muhammad Ali's Github Stats">
+</p>
 
 <!--
 **mu-ali/mu-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -84,7 +87,3 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://alichishti.me/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/muhammad-ali-chishti
-[Spotify]: https://open.spotify.com/user/11153360645
