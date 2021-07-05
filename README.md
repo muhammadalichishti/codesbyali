@@ -43,8 +43,8 @@
 
 ### Contact with me 📝
 
-      <p align="center">
-        <a href="https://mu-ali.github.io/"><img alt="Website" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/50/000000/domain.png"/></a>
+ <p align="center">
+        <a href="https://mu-ali.github.io/"><img alt="Website" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/domain.png"/></a>
         <a href="https://github.com/mu-ali/"><img alt="GitHub" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/github.png"/></a>
         <a href="https://www.linkedin.com/in/muhammad-ali-chishti/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/></a>
         <a href="https://twitter.com/mu_ali_c"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/twitter.png"/></a>
