@@ -7,7 +7,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I’m also learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
@@ -18,8 +18,8 @@
 ## My Personal and Professional Websites 
 
 - 👨‍💻 <a href="https://github.com/mu-ali/" target='_blank'>Portfolio Website</a>
-- 📚 <a href="https://github.com/mu-ali/" target='_blank'>Personal Website</a>
-- 💪🏼 <a href="https://github.com/mu-ali/" target='_blank'>Web Based Curriculum Vitae</a>
+- 📚 <a href="https://github.com/mu-ali/projects" target='_blank'>Personal Projects Website</a>
+- 💪🏼 <a href="https://github.com/mu-ali/cv" target='_blank'>Web Based Curriculum Vitae</a>
 
 
   
