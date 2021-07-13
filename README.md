@@ -15,7 +15,7 @@
 ---
 <img align="right" alt="GIF" height="140px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
 
-## Websites  
+## My Personal and Professional Websites 
 
 - 👨‍💻 <a href="https://github.com/mu-ali/" target='_blank'>Portfolio Website</a>
 - 📚 <a href="https://github.com/mu-ali/" target='_blank'>Personal Website</a>
