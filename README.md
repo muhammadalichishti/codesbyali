@@ -13,7 +13,7 @@
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
 ---
-<img align="right" alt="GIF" height="185px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
+<img align="right" alt="GIF" height="140px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
 
 ## I'm a Computer Science and Engineering Student  
 
