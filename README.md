@@ -15,11 +15,11 @@
 ---
 <img align="right" alt="GIF" height="140px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## Websites  
 
-- 👨‍💻 My Portfolio Website
-- 📚 My Personal Website
-- 💪🏼 My Web Based Curriculum Vitae
+- 👨‍💻 <a href="https://github.com/mu-ali/" target='_blank'>Portfolio Website</a>
+- 📚 <a href="https://github.com/mu-ali/" target='_blank'>Personal Website</a>
+- 💪🏼 <a href="https://github.com/mu-ali/" target='_blank'>Web Based Curriculum Vitae</a>
 
 
   
