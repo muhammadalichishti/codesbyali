@@ -17,9 +17,9 @@
 
 ## My Personal and Professional Websites 
 
-- 👨‍💻 <a href="https://github.com/mu-ali/" target='_blank'>Portfolio Website</a>
-- 📚 <a href="https://github.com/mu-ali/projects" target='_blank'>Personal Projects Website</a>
-- 💪🏼 <a href="https://github.com/mu-ali/cv" target='_blank'>Web Based Curriculum Vitae</a>
+- 👨‍💻 <a href="https://mu-ali.github.io/" target='_blank'>Portfolio Website</a>
+- 📚 <a href="https://mu-ali.github.io/projects" target='_blank'>Personal Projects Website</a>
+- 💪🏼 <a href="https://mu-ali.github.io/cv" target='_blank'>Web Based Curriculum Vitae</a>
 
 
   
