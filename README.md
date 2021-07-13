@@ -13,6 +13,17 @@
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
 ---
+<img align="right" alt="GIF" height="185px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
+
+## I'm a Computer Science and Engineering Student  
+
+- 👨‍💻 My Portfolio Website
+- 📚 My Personal Website
+- 💪🏼 My Web Based Curriculum Vitae
+
+
+  
+---
 <a target="_blank"><img align="left" height="300" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/Coder.gif"></a>
 <br/>
 
@@ -72,8 +83,9 @@ Ali.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-<p align='center'>
+<p align='center' >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu-ali&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Muhammad Ali's Github Stats">
+
 </p>
 
 
