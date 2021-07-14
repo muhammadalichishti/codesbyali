@@ -16,7 +16,7 @@
 
   
 ---
-<a target="_blank"><img align="right" height="300" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/Coder.gif"></a>
+<a target="_blank"><img align="left" height="300" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/Coder.gif"></a>
 <br/>
 
 
