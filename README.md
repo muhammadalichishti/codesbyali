@@ -12,19 +12,11 @@
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
----
-<img align="right" alt="GIF" height="140px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
-
-## My Personal and Professional Websites 
-
-- 🌎 <a href="https://mu-ali.github.io/" target='_blank'>Portfolio Website</a>
-- 🌐 <a href="https://mu-ali.github.io/projects" target='_blank'>Personal Projects Website</a>
-- 📝 <a href="https://mu-ali.github.io/cv" target='_blank'>Web Based Curriculum Vitae</a>
 
 
   
 ---
-<a target="_blank"><img align="left" height="300" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/Coder.gif"></a>
+<a target="_blank"><img align="right" height="300" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/Coder.gif"></a>
 <br/>
 
 
@@ -48,6 +40,18 @@
 <br/>
 <br/>
 
+  
+  ---
+<img align="right" alt="GIF" height="140px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
+
+## My Personal and Professional Websites 
+
+- 🌎 <a href="https://mu-ali.github.io/" target='_blank'>Portfolio Website</a>
+- 🌐 <a href="https://mu-ali.github.io/projects" target='_blank'>Personal Projects Website</a>
+- 📝 <a href="https://mu-ali.github.io/cv" target='_blank'>Web Based Curriculum Vitae</a>
+
+  
+  
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mu-ali&repo=mu-ali&countColorcountColor&countColor=%237B1E7B"/>
