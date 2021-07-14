@@ -13,15 +13,25 @@
 - ⚡ Fun fact 2.0: I am the fan of Marvel as well as DC.
 
 
+  ---
+  
+<img align="right" alt="GIF" height="140px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
+
+## My Personal and Professional Websites 
+
+- 🌎 <a href="https://mu-ali.github.io/" target='_blank'>Portfolio Website</a>
+- 🌐 <a href="https://mu-ali.github.io/projects" target='_blank'>Personal Projects Website</a>
+- 📝 <a href="https://mu-ali.github.io/cv" target='_blank'>Web Based Curriculum Vitae</a>
 
   
+  
+  
 ---
-<a target="_blank"><img align="left" height="300" width="450" alt="GIF" src="https://github.com/mu-ali/mu-ali/blob/main/Coder.gif"></a>
+  <img align="right" alt="GIF" height="185px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1435210wftqrNMa.gif" />
 <br/>
 
 
-**Languages And Tools aka My Playing Kit:**  
-<br/>
+## Languages And Tools aka My Playing Kit:  
 <br/>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -29,7 +39,7 @@
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-#
+.
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
@@ -41,17 +51,7 @@
 <br/>
 
   
-  ---
-<img align="right" alt="GIF" height="140px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
 
-## My Personal and Professional Websites 
-
-- 🌎 <a href="https://mu-ali.github.io/" target='_blank'>Portfolio Website</a>
-- 🌐 <a href="https://mu-ali.github.io/projects" target='_blank'>Personal Projects Website</a>
-- 📝 <a href="https://mu-ali.github.io/cv" target='_blank'>Web Based Curriculum Vitae</a>
-
-  
-  
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mu-ali&repo=mu-ali&countColorcountColor&countColor=%237B1E7B"/>
