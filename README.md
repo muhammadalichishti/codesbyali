@@ -85,7 +85,7 @@ Ali.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-![Ali's github activity graph](https://activity-graph.herokuapp.com/graph?username=mu-ali&theme=react-dark)]
+
 
 </p>
 
