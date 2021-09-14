@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/mu-ali/mu-ali/blob/main/name.gif" />
+  <img src="https://github.com/startwithali/startwithali/blob/main/name.gif" />
 
 ---
-<img align="right" alt="GIF" height="185px" src="https://github.com/mu-ali/mu-ali/blob/main/Computer%20Guy.gif" />
+<img align="right" alt="GIF" height="185px" src="https://github.com/startwithali/startwithali/blob/main/Computer%20Guy.gif" />
 
 ## I'm a Computer Science and Engineering Student  
 
@@ -14,19 +14,19 @@
 
 ---
   
-<img align="right" alt="GIF" height="140px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1316256PZf8ZwkB.gif" />
+<img align="right" alt="GIF" height="140px" src="https://github.com/startwithali/startwithali/blob/main/oie_1316256PZf8ZwkB.gif" />
 
 ## My Personal and Professional Websites 
 
-- 🌎 <a href="https://mu-ali.github.io/" target='_blank'>Portfolio Website</a>
-- 🌐 <a href="https://mu-ali.github.io/projects" target='_blank'>Personal Projects Website</a>
-- 📝 <a href="https://mu-ali.github.io/cv" target='_blank'>Web Based Curriculum Vitae</a>
+- 🌎 <a href="https://startwithali.github.io/" target='_blank'>Portfolio Website</a>
+- 🌐 <a href="https://startwithali.github.io/projects" target='_blank'>Personal Projects Website</a>
+- 📝 <a href="https://startwithali.github.io/cv" target='_blank'>Web Based Curriculum Vitae</a>
 
   
   
   
 ---
-  <img align="right" alt="GIF" height="185px" src="https://github.com/mu-ali/mu-ali/blob/main/oie_1435210wftqrNMa.gif" />
+  <img align="right" alt="GIF" height="185px" src="https://github.com/startwithali/startwithali/blob/main/oie_1435210wftqrNMa.gif" />
 
 
 ## Languages And Tools aka My Playing Kit:
@@ -52,16 +52,16 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mu-ali&repo=mu-ali&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=startwithali&repo=startwithali&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
 <p align="center">
-        <a href="https://github.com/mu-ali/" target='_blank'><img alt="GitHub" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/github.png"/></a>
+        <a href="https://github.com/startwithali/" target='_blank'><img alt="GitHub" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/github.png"/></a>
         <a href="https://www.linkedin.com/in/muhammad-ali-chishti/" target='_blank'><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/></a>
-        <a href="https://mu-ali.github.io/" target='_blank'><img alt="Website" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/domain.png"/></a>
-        <a href="https://twitter.com/mu_ali_c" target='_blank'><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/twitter.png"/></a>
-        <a href="mailto:alichishti1225@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub" target='_blank'><img alt="linkedin" width="10%" style="padding:5px"  src="https://img.icons8.com/bubbles/100/000000/gmail.png"/></a>  
+        <a href="https://startwithali.github.io/" target='_blank'><img alt="Website" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/domain.png"/></a>
+        <a href="https://twitter.com/startwithali" target='_blank'><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/twitter.png"/></a>
+        <a href="mailto:aliisreceiving@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub" target='_blank'><img alt="linkedin" width="10%" style="padding:5px"  src="https://img.icons8.com/bubbles/100/000000/gmail.png"/></a>  
       </p>
 </p>
 
@@ -85,18 +85,13 @@ Ali.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-![Ali's github activity graph](https://activity-graph.herokuapp.com/graph?username=mu-ali&theme=react-dark&custom_title=Muhammad%20Ali's%20a%20Contribution%20Graph&hide_border=true)
+![Ali's github activity graph](https://activity-graph.herokuapp.com/graph?username=startwithali&theme=react-dark&custom_title=Muhammad%20Ali's%20a%20Contribution%20Graph&hide_border=true)
 
 </p>
 
 
-[website]: https://alichishti.me/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/muhammad-ali-chishti
-[Spotify]: https://open.spotify.com/user/11153360645
-
 <!--
-**mu-ali/mu-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**startwithali/startwithali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...
